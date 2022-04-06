@@ -23,6 +23,7 @@ information about past loan applicants data.
 - Data understanding and Cleaning
 - Data Analysis using different visual charts
     - Univariate, Bivariate, Segmented variate analysis
+- Based on the visual and derived data key insights to identify the defaulter was obtained
 
 ## Software Details
 - Jupyter Notebook
