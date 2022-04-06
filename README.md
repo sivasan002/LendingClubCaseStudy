@@ -1,49 +1,58 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending club is the largest online loan marketplace, utilizes a group
+of private investors to fund loan request from any individual. The
+loan type may be personal loans, home loans, business loans, and
+financing of medical procedures.
+>Borrowers can easily access lower interest rate loans  through a fast
+online interface.
+>The objective of analysis is to find the key insights and condition to
+predict new borrowers would be defaulter or not by using the
+information about past loan applicants data.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Data Analysis Approach](#Data Analysis Approach)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Software Version](#technologies-used)
+* [Contact us](#Contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Data Analysis Approach
+- Data understanding and Cleaning
+- Data Analysis using different visual charts
+    - Univariate, Bivariate, Segmented variate analysis
+
+- We are trying to resolve lending club business losses by indicating the defaulter's related key sights
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter Notebook
+- Microsoft Excel
+
+## Conclusions
+- Clients who under grade B
+- Client who having home as Rent or Mortgage
+- Clients who has loan at interest rate of 12.5-15%
+- Clients with employment length of 10 years and more than 10 years
+- When the loan asked for 'debt_consolidation'
+- 36 months Term
+- When funded amount by investor is between 5k-10k
+- Loan amount is between 5k-10k
+- DTI is between 10-20
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
+## Contributors
+- Sivasankar
+- Pulkit Singh
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
+Creaed Case study for Advanced certification course of Machine Learing and Deep learning - Upgrad & IIIT-Bangalore.
 
 <!-- Optional -->
 <!-- ## License -->
