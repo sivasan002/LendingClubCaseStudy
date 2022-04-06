@@ -45,5 +45,5 @@ information about past loan applicants data.
 - Sivasankar
 - Pulkit Singh
 
-Creaed Case study for Advanced certification course of Machine Learing and Deep learning - Upgrad & IIIT-Bangalore.
+Created Case study for Advanced certification course of Machine Learing and Deep learning - Upgrad & IIIT-Bangalore.
 
