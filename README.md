@@ -18,6 +18,7 @@ information about past loan applicants data.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
+
 ## Data Analysis Approach
 - Data understanding and Cleaning
 - Data Analysis using different visual charts
