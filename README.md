@@ -13,7 +13,7 @@ information about past loan applicants data.
 ## Table of Contents
 * [Data Analysis Approach](#Data Analysis Approach)
 * [Conclusions](#conclusions)
-* [Software Version](#Software Details)
+* [Software Details](#Software Details)
 * [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
