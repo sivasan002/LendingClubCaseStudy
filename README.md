@@ -14,7 +14,7 @@ information about past loan applicants data.
 * [Data Analysis Approach](#Data Analysis Approach)
 * [Conclusions](#conclusions)
 * [Software Version](#Software Details)
-* [Contact us](#Contributors)
+* [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -22,11 +22,6 @@ information about past loan applicants data.
 - Data understanding and Cleaning
 - Data Analysis using different visual charts
     - Univariate, Bivariate, Segmented variate analysis
-
-- We are trying to resolve lending club business losses by indicating the defaulter's related key sights
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Software Details
 - Jupyter Notebook
