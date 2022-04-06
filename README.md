@@ -11,10 +11,10 @@ information about past loan applicants data.
 
 
 ## Table of Contents
-* [Data Analysis Approach](# Data Analysis Approach)
+* [Data Analysis Approach](#Data Analysis Approach)
 * [Conclusions](#conclusions)
-* [Software Version](#technologies-used)
-* [Contact us](#Contact)
+* [Software Version](#Software Details)
+* [Contact us](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -28,7 +28,7 @@ information about past loan applicants data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies Used
+## Software Details
 - Jupyter Notebook
 - Microsoft Excel
 
