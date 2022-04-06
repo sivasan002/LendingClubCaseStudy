@@ -3,15 +3,15 @@
 of private investors to fund loan request from any individual. The
 loan type may be personal loans, home loans, business loans, and
 financing of medical procedures.
->Borrowers can easily access lower interest rate loans  through a fast
+Borrowers can easily access lower interest rate loans through a fast
 online interface.
->The objective of analysis is to find the key insights and condition to
+The objective of analysis is to find the key insights and condition to
 predict new borrowers would be defaulter or not by using the
 information about past loan applicants data.
 
 
 ## Table of Contents
-* [Data Analysis Approach](#Data Analysis Approach)
+* [Data Analysis Approach](# Data Analysis Approach)
 * [Conclusions](#conclusions)
 * [Software Version](#technologies-used)
 * [Contact us](#Contact)
