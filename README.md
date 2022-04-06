@@ -11,10 +11,10 @@ information about past loan applicants data.
 
 
 ## Table of Contents
-* [Data Analysis Approach](#Data Analysis Approach)
-* [Conclusions](#conclusions)
-* [Software Details](#Software Details)
-* [Contributors](#Contributors)
+* Data Analysis Approach
+* Conclusions
+* Software Details
+* Contributors
 
 <!-- You can include any other section that is pertinent to your problem -->
 
